@@ -22,12 +22,12 @@ All the images (patches) of different magnification will save as .jpeg
 
 #### 3. Data labels
 You will need to make the labels of dataset in the following json structure:
-
+```
 {
 	"Pat-id-1": {"patient-label": 1},
 	"Pat-id-2": {"patient-label": 0}
 }
-
+```
 The id of the first patient is "Pat-id-1" and label is 1
 
 ## Training
