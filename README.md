@@ -48,13 +48,16 @@ This command will start testing the WSIs data under the path set in .sh file "--
 
 ## Clustering
 Please follow the source implement in (https://github.com/sKamiJ/DCCS) for details in code.
+
 Please follow the source paper in:
+```
 @inproceedings{zhao2020deep,
   title={Deep Image Clustering with Category-Style Representation},
   author={Zhao, Junjie and Lu, Donghuan and Ma, Kai and Zhang, Yu and Zheng, Yefeng},
   booktitle={European Conference on Computer Vision (ECCV)},
   year={2020}
 }
+```
 for details in algorithm.
 ```
 cd Module3-Clustering
