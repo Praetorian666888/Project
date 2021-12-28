@@ -68,7 +68,3 @@ cd Module4-CAM
 sh CAM_all.sh
 ```
 This commend will start drawing the CAM map of patch images.
-
-## License
-This project is licensed under the GPL v3 License - see the [LICENSE.md](LICENSE.md) file for details
-
